@@ -1,5 +1,5 @@
 # Postal-System
-Object oriented design in Java
+Object oriented design in Java (View readme as raw)
 
 4.1) Post office file
   The name of this file is offices.txt. This file contains the information about the post offices
