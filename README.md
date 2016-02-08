@@ -1,7 +1,7 @@
 # Postal-System
 Object oriented design in Java
 
-4.1 Post office file
+4.1) Post office file
   The name of this file is offices.txt. This file contains the information about the post offices
   in the system. You should read this file and use the contents to set up your program for the
   simulation.
@@ -19,7 +19,7 @@ Object oriented design in Java
   1000 items, nearly impossible to convince into shipping oversize mail and rejecting packages
   over 300 units of length.
   
-4.2 Wanted criminals file
+4.2) Wanted criminals file
   The name of this file is wanted.txt. This file contains the names of criminals which may be
   using the postal system for their nefarious plans to take over the world. You should read this
   file at program startup and thwart their evil plans by rejecting their packages or arresting them
@@ -29,7 +29,7 @@ Object oriented design in Java
   provided:
   • A string naming the criminal.
 
-4.3 Command file
+4.3) Command file
   The name of this file is commands.txt. This file contains instructions for your program to
   execute.
   This file will begin with the integer count of commands within. Following will be the
